@@ -22,10 +22,10 @@ ________________________________________________________________________________
 <br>
 <br>
 
-  [![xNKIT Followers](https://img.shields.io/github/followers/ANKIT-OS?label=Follow&style=social)](https://github.com/xNKIT)
-  [![xNKIT PROFILE VIEWS](https://komarev.com/ghpvc/?username=ANKIT-OS&label=Profile%20views)](https://github.com/xNKIT)
-  [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=ANKIT-OS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400)](https://github.com/xNKIT)
-  [![xNKIT GITHUB STREAK](https://github-readme-streak-stats.herokuapp.com/?user=ANKIT-OS&theme=chartreuse-dark&show_icon=true)](https://github.com/xNKIT)
+  [![xNKIT Followers](https://img.shields.io/github/followers/XNKIT-OS?label=Follow&style=social)](https://github.com/xNKIT)
+  [![xNKIT PROFILE VIEWS](https://komarev.com/ghpvc/?username=XNKIT-OS&label=Profile%20views)](https://github.com/xNKIT)
+  [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=XNKIT-OS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400)](https://github.com/xNKIT)
+  [![xNKIT GITHUB STREAK](https://github-readme-streak-stats.herokuapp.com/?user=XNKIT-OS&theme=chartreuse-dark&show_icon=true)](https://github.com/xNKIT)
   
   </details>
 
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 <br>
 <br>
   
-  [![MOST USED LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT-OS&layout=compact&theme=chartreuse-dark)](https://github.com/xNKIT)
+  [![MOST USED LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=XNKIT-OS&layout=compact&theme=chartreuse-dark)](https://github.com/xNKIT)
   
    </details>
   
@@ -47,7 +47,7 @@ ________________________________________________________________________________
 <br>
 <br>
   
-[![TROPHY](https://github-profile-trophy.vercel.app/?username=ANKIT-OS)](https://github.com/xNKIT)
+[![TROPHY](https://github-profile-trophy.vercel.app/?username=XNKIT-OS)](https://github.com/xNKIT)
   
   </details>
  
